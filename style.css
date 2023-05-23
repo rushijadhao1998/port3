@@ -864,7 +864,7 @@ span {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     .home {
         justify-content: center;
     }
@@ -880,26 +880,7 @@ span {
         font-size: 5rem;
 
     }
-    .resume {
-        
-        width: 12rem;
-        height: 12rem;
-        margin-top: 60rem;
-        margin-left: -37rem;
-        justify-content: center;
-    }
-}
 
-
-@media (max-width:300px){
-    .resume {
-        
-        width: 10rem;
-        height: 10rem;
-        margin-top: 60rem;
-        margin-left: -37rem;
-        justify-content: center;
-    }
 }
 
 
