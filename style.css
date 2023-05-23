@@ -803,7 +803,7 @@ span {
 }
 
 
-@media (max-width: 520px) {
+@media (max-width: 600px) {
     html {
         font-size: 50%;
     }
@@ -832,7 +832,7 @@ span {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 580px) {
     .home-content h1 {
         font-size: 5.2rem;
     }
@@ -864,7 +864,7 @@ span {
     }
 }
 
-@media (max-width: 490px) {
+@media (max-width: 550px) {
     .home {
         justify-content: center;
     }
